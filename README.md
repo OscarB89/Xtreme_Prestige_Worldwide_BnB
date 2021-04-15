@@ -1,5 +1,3 @@
-# Xtreme_Prestige_Worldwide_BnB
-
 <p align="center">
   <img width="600" height="180" src="https://user-images.githubusercontent.com/71934417/114875074-d8370e80-9df4-11eb-9a15-db933662ce0b.png">
 </p>
