@@ -1,5 +1,9 @@
 # Xtreme_Prestige_Worldwide_BnB
 
+<p align="center">
+  <img width="360" height="200" src="Screenshot 2021-04-15 at 14 12 23](https://user-images.githubusercontent.com/71934417/114875074-d8370e80-9df4-11eb-9a15-db933662ce0b.png">
+</p>
+  
 We created a clone of Air BnB for a Makers Academy group project. This was our first time working on our own, without walkthroughs or supervision from coaches. We used agile processing, XP values and git collaboration to successfully create a website where you can sign up, sign in and sign out; add a listing with a photo, a description, a free date, and a price; see your own listing, and see other users' listings as well. 
 
 ## Our aproach
