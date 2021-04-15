@@ -1,5 +1,16 @@
 # Xtreme_Prestige_Worldwide_BnB
 
+## Our task
+
+To create a mock version of AirBnB that allows the user to create, search and book venues.
+
+## Our aproach
+
+- Had a Stand Up every day to choose and separate task.
+- Had a midday reunion to check the team progress.
+- Had a constant communication flow and asked each other for help.
+- Had a Retro every night to make an assessment of the day's activities and set new tasks for the next day.
+
 ## User Stories
 
 ```
@@ -33,7 +44,7 @@ I want to be notified via email of a booking request.
 
 ```
 
-### Listing
+## Listing
 
 | Responsibilities        | Collaborators |
 | ----------------------- | ------------- |
@@ -46,7 +57,7 @@ I want to be notified via email of a booking request.
 table: listing
 id name free_date
 
-### Booking
+## Booking
 
 | Responsibilities           | Collaborators |
 | -------------------------- | ------------- |
@@ -56,7 +67,7 @@ id name free_date
 table: booking
 id listing_id user_id
 
-### User
+## User
 
 | Responsibilities    | Collaborators |
 | ------------------- | ------------- |
@@ -66,7 +77,7 @@ id listing_id user_id
 table: user
 id email password name
 
-### To set up the project
+## To set up the project
 
 Clone this repository and then run:
 
@@ -74,7 +85,7 @@ Clone this repository and then run:
 bundle
 ```
 
-### To set up the databases
+## To set up the databases
 
 Connect to `psql` and create the `xtreme_bnb` database:
 
